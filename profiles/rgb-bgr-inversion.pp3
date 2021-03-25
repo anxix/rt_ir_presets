@@ -1,0 +1,8 @@
+[Version]
+AppVersion=5.3
+Version=327
+
+[Channel Mixer]
+Red=0;0;100;
+Green=0;100;0;
+Blue=100;0;0;
