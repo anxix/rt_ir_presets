@@ -1,7 +1,7 @@
 # Profiles for processing infrared images in RawTherapee
 These are originally developed for a Sony A5100, converted to IR with the Life Pixel Super Color (590 nm) filter. I usually shoot with +2eV exposure compensation, so the exposure compensation in the profiles is based on that. That being said, these mostly serve as starting points, as usually individual images do require additional tweaking from a starting profile for decent results.
 
-All profile are partial, so they will not affect the geometry and such.
+All profiles are partial, so they will not affect the geometry and such.
 
 # Previews
 As mentioned above these profiles only act as starting points. To give an impression of how they look, here are some links to pictures on my Instagram account that were processed based on these profiles:
